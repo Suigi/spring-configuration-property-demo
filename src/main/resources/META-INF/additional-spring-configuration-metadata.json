@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "my-app.answer",
+      "type": "java.lang.String",
+      "description": "Answer to the Ultimate Question of Life, the Universe, and Everything."
+    }
+  ]
+}
